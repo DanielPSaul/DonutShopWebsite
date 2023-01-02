@@ -1,8 +1,6 @@
 # DonutShopWebsite
 ### Donut Shop Website
-[![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://danielsaul.wixsite.com/donutworry)
-
-<br>
+[![Visit my website](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://danielsaul.wixsite.com/donutworry)
 
 **Concepts:** Cloud-Based Web App Development, Project Management
 
